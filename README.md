@@ -29,3 +29,6 @@ const requestData = {
 ```
 console.log('Estimated Delivery Time:', response.dta.estimatedDeliveryTime);
 ```
+
+## UML Diagram
+![Diagram](MicroserviceUML.jpg)
